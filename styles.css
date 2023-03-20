@@ -1,0 +1,106 @@
+.main_heading{
+  text-align: center;
+  color: purple;
+  margin: 0, auto;
+  padding: 10px 10px;
+  font-family: "Climate Crisis";
+}
+
+h2{
+  text-align: center;
+  color: red; 
+  font-family: "Tilt Neon"
+}
+
+.top{
+  border: 1px solid black;
+}
+
+.panel{
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+
+.blue{
+  width: 32%;
+  background-color: blue;
+  text-align: center; 
+  color: white;
+}
+
+.pink{
+  width: 32%;
+  background-color: pink;
+  text-align: center; 
+  color: black;
+}
+
+.orange{
+  width: 32%;
+  background-color: orange;
+  text-align: center; 
+  color: black;
+}
+
+.beige{
+  width: 32%;
+  background-color: beige;
+  text-align: center; 
+  color: black;
+}
+
+.middle{
+  border: 1px solid black;
+}
+
+.block{
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+}
+.heading1{
+  font-size: 30px;
+  text-decoration: underline;
+  font-family: "Tilt Neon"
+}
+
+.tt{
+  font-family: "Tilt Neon"
+  font-size: 25px;
+}
+
+.heading2{
+  font-size: 30px; 
+  text-decoration: underline;
+  font-family: "Tilt Prism"
+}
+
+.tp{
+  font-family: "Tilt Prism"
+  font-size: 25px; 
+}
+
+.heading3{
+  font-size: 30px; 
+  text-decoration: underline;
+  font-family: "Playfair"
+}
+
+.tp{
+  font-family: "Playfair"
+  font-size: 25px; 
+}
+
+.bottom{
+  border: 1px solid black;
+}
+
+.subheading{
+  color: black;
+  font-family: "poppins"
+  text-align: left; 
+}
